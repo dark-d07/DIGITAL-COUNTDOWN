@@ -1,0 +1,50 @@
+body {
+    background-image: url('wallpaperflare.com_wallpaper\(6\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -1px;
+    background-position-y: -65px;
+}
+p{
+    color: aqua;
+    font-size: 50px;
+    background-image: url('wallpaperflare.com_wallpaper\(8\).jpg');
+    background-clip: text;
+    -webkit-background-clip: text; /* for Safari */
+    color: transparent;
+    letter-spacing: 10px;
+    text-align: center;
+    padding-top: 100px;
+}
+#clock{
+    color: aqua;
+    font-size: 100px;
+    background-image: url('wallpaperflare.com_wallpaper\(8\).jpg');
+    background-clip: text;
+    -webkit-background-clip: text; /* for Safari */
+    color: transparent;
+    letter-spacing: 10px;
+    text-align: center;
+    padding-top: 30px;
+}
+#year{
+    font-size: 120px;
+    background-image: url('wallpaperflare.com_wallpaper\(7\).jpg');
+    background-clip: text;
+    -webkit-background-clip: text; /* for Safari */
+    color: transparent;
+    letter-spacing: 10px;
+    text-align: center ;
+    padding-top: 10px;
+    
+}
+#countdown{
+    font-size: 50px;
+    background-image: url('wallpaperflare.com_wallpaper\(7\).jpg');
+    background-clip: text;
+    -webkit-background-clip: text; /* for Safari */
+    color: transparent;
+    letter-spacing: 10px;
+    text-align: center ;
+    padding-top: 20px;
+}
