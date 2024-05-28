@@ -48,7 +48,7 @@ setInterval(function() {
 function year(){
     const now = new Date();
     const date = now.getDate();
-    const month = now.getMonth()
+    const month = now.getMonth()+1;
     const currentYear = now.getFullYear();
     let y = date +"/"+month+"/"+ currentYear;
     document.querySelector("#year").innerText = y;
